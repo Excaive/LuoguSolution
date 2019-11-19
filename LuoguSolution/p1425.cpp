@@ -1,6 +1,6 @@
 # include <iostream>
 
-int main()
+int main_p1425()
 {
 	int a, b, c, d;
 	std::cin >> a >> b >> c >> d;
