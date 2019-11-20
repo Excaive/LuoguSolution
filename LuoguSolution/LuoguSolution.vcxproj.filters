@@ -15,28 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="p1028.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
     <ClCompile Include="p1000.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="p1001.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="p1421.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="p1425.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="p1422.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="p1085.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="p1089.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="p1909.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="p1008.cpp">
@@ -45,10 +30,34 @@
     <ClCompile Include="p1035.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p1085.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1089.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1421.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1422.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
     <ClCompile Include="p1423.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="p1425.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
     <ClCompile Include="p1618.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1909.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1036.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="p1149.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

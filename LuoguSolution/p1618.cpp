@@ -1,7 +1,7 @@
 # include <iostream>
 # include <set>
 
-int main()
+int main_p1618()
 {
 	double A, B, C;
 	bool flag = false;

@@ -1,4 +1,2 @@
-﻿  p1618.cpp
-D:\_myGitHub\LuoguSolution\LuoguSolution\p1618.cpp(11,9): warning C4244:  “初始化”: 从“double”转换到“int”，可能丢失数据
-D:\_myGitHub\LuoguSolution\LuoguSolution\p1618.cpp(14,9): warning C4244:  “初始化”: 从“double”转换到“int”，可能丢失数据
+﻿  p1149.cpp
   LuoguSolution.vcxproj -> D:\_myGitHub\LuoguSolution\LuoguSolution\Debug\LuoguSolution.exe
